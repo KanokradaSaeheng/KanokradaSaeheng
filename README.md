@@ -4,7 +4,7 @@
 
 - ✧･ﾟ: ✧･ﾟ:
 - ˚₊ Da, Dada
-- ˚₊ 16   
+- ˚₊ 17   
 - ˚₊ She/Her
 - ˚₊ SKT 12
 - ———————
@@ -15,7 +15,7 @@
 - Nice 2 meet U
 - ✧･ﾟ: ✧･ﾟ:
 - [Currently learning]
-- ˚₊ Markdown
+- ˚₊ Unity
 - ˚₊ Github
 - ˚₊ HTML
 - ˚₊ CSS
